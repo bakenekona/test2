@@ -1,0 +1,9 @@
+Code of  telegram bot - 2020234609:AAHIpPURs54SfQd3OCr8JF5J89ilnZYc4JQ
+
+0) Установить python последней версии (3 версия)
+1) Установить pip - powershell -Command "& $([scriptblock]::Create((New-Object Net.WebClient).DownloadString('https://platform.activestate.com/dl/cli/pdli01/install.ps1'))) -activate-default bakenekona/Python-3.9"
+2) Проверить установилося ли pip3 - pip3 --version | Установить TelegramAPi pip install PyTelegramBotAPI и проверить загрузился в списке pip list 
+1) Установить pipenv - pip install pipenv (Перед этим установить Pip(The Python Pack Manager))
+2) Установить pipenv install в папку
+3) Установить нужные библиотеки в папку pip install PyTelegramBotAPI etc.
+4)
